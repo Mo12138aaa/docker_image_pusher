@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #amilys/embyserver
 #syangtechcn/dell-fan-control:2024-04-25
-teslamate/teslamate
+#teslamate/teslamate
+yesplaymusic
