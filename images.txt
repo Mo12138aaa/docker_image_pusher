@@ -7,4 +7,4 @@
 #amilys/embyserver
 #syangtechcn/dell-fan-control:2024-04-25
 #teslamate/teslamate
-yesplaymusic
+YesPlayMusic
